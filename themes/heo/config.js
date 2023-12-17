@@ -14,7 +14,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '教程&随记',
   HEO_HERO_TITLE_3: 'TANGLY1024.COM',
   HEO_HERO_TITLE_4: 'Welcome to my blog',
-  HEO_HERO_TITLE_5: '数字画布 每次点击都是无限创意的起点 艺术由线条和像素编织梦幻之境',
+  HEO_HERO_TITLE_5: '数字画布 每次点击都是无限创意的起点 线条和像素编织梦幻之境',
   HEO_HERO_TITLE_LINK: 'https://bing.netcarshow.top',
 
   // 英雄区显示三个置顶分类
